@@ -1,0 +1,7 @@
+HTTP/1.1 200 OK
+Date: Sun, 21 Sep 2025 13:59:28 GMT
+Server: Apache
+Allow: POST,OPTIONS,GET,HEAD
+Content-Length: 0
+Content-Type: text/html
+

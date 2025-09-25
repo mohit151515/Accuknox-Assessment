@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Sun Sep 21 17:17:33 2025 as: /usr/lib/nmap/nmap --privileged -Pn --script=vuln -oN nmap_vuln.txt itsecgames.com
+Nmap scan report for itsecgames.com (31.3.96.40)
+Host is up.
+rDNS record for 31.3.96.40: web.mmebvba.com
+All 1000 scanned ports on itsecgames.com (31.3.96.40) are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+
+# Nmap done at Sun Sep 21 17:21:12 2025 -- 1 IP address (1 host up) scanned in 218.74 seconds

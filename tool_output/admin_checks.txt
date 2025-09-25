@@ -1,0 +1,23 @@
+===== admin =====
+===== login =====
+===== wp-admin =====
+===== manager =====
+===== phpmyadmin =====
+===== /admin.php =====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 14:00:00 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+===== /administrator =====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 14:00:01 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+===== /user/login =====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 14:00:09 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+

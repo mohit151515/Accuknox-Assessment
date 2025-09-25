@@ -1,0 +1,4 @@
+notBefore=Aug  6 09:47:00 2025 GMT
+notAfter=Nov  4 09:46:59 2025 GMT
+issuer=C=US, O=Let's Encrypt, CN=R10
+subject=CN=mmebv.be

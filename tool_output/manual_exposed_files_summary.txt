@@ -1,0 +1,79 @@
+==== phpinfo.php ====
+==== info.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:36:48 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== config.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:36:48 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== config.bak ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:36:50 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== wp-config.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:36:53 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== admin.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:36:55 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== setup.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:36:57 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== phpinfo.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:47:54 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== info.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:47:56 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== config.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:47:56 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== config.bak ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:47:57 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== wp-config.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:47:58 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== admin.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:47:59 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== setup.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:48:01 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+

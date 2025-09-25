@@ -1,0 +1,19 @@
+# Nmap 7.95 scan initiated Sun Sep 21 16:27:30 2025 as: /usr/lib/nmap/nmap --privileged -Pn -sV -oN nmap_quick.txt itsecgames.com
+Nmap scan report for itsecgames.com (31.3.96.40)
+Host is up (0.39s latency).
+rDNS record for 31.3.96.40: web.mmebvba.com
+Not shown: 990 filtered tcp ports (no-response)
+PORT      STATE  SERVICE      VERSION
+22/tcp    open   ssh          OpenSSH 6.7p1 (protocol 2.0)
+80/tcp    open   http         Apache httpd
+443/tcp   open   ssl/http     Apache httpd
+2381/tcp  closed compaq-https
+3814/tcp  closed neto-dcs
+4003/tcp  closed pxc-splr-ft
+5100/tcp  closed admd
+5102/tcp  closed admeng
+19283/tcp closed keysrvr
+45100/tcp closed unknown
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Sep 21 17:11:30 2025 -- 1 IP address (1 host up) scanned in 2639.91 seconds

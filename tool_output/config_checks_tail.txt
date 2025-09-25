@@ -1,0 +1,42 @@
+==== .env ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:58:49 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== .env.example ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:58:51 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== config.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:58:53 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== wp-config.php ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:58:55 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== config.yml ====
+HTTP/1.1 404 Not Found
+Date: Sun, 21 Sep 2025 13:58:56 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== .htpasswd ====
+HTTP/1.1 403 Forbidden
+Date: Sun, 21 Sep 2025 13:58:58 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+
+==== .htaccess ====
+HTTP/1.1 403 Forbidden
+Date: Sun, 21 Sep 2025 13:58:59 GMT
+Server: Apache
+Content-Type: text/html; charset=iso-8859-1
+

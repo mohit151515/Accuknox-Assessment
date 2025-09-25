@@ -1,0 +1,9 @@
+# Nmap 7.95 scan initiated Sun Sep 21 17:21:49 2025 as: /usr/lib/nmap/nmap --privileged -Pn -sV --top-ports 5000 -oN nmap_full.txt itsecgames.com
+Nmap scan report for itsecgames.com (31.3.96.40)
+Host is up.
+rDNS record for 31.3.96.40: web.mmebvba.com
+All 5000 scanned ports on itsecgames.com (31.3.96.40) are in ignored states.
+Not shown: 5000 filtered tcp ports (no-response)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sun Sep 21 17:38:52 2025 -- 1 IP address (1 host up) scanned in 1023.78 seconds
